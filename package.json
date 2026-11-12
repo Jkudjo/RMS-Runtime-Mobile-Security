@@ -42,6 +42,6 @@
     "frida-load": "^1.0.0",
     "node-datetime": "^2.1.2",
     "nunjucks": "^3.2.2",
-    "socket.io": "^3.0.4"
+    "socket.io": "^4.8.4"
   }
 }
